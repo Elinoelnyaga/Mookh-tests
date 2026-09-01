@@ -1,4 +1,4 @@
-This folder contains a looping animation rendition of the MOOKH logo in html and json format, created in after effects.
+This folder contains a looping vector animation rendition of the MOOKH logo in html and json/lottie files format, created in Adobe After Effects and exported with the help of 'Bodymovin' plugin.
 
 They are currently tests and that is why I have exported in html and json so as to find the most suitable one. 
 Having the animations in those formats should make it easier to directly integrate into the platform as it has 
